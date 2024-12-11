@@ -34,7 +34,7 @@ GitHub Copilot is an AI-powered code assistant that helps developers write bette
 
 <div class="warning" data-title="warning">
 
-> GitHub Copilot is a quickly evolving product and thus this workshop may not be 100% up to date with the differentes features of the different extensions you are going to use. Please be clever if it's not exactly the same. For info, this page has been updated in December 2023.
+> GitHub Copilot is a quickly evolving product and thus this workshop may not be 100% up to date with the differentes features of the different extensions you are going to use. Please be clever if it's not exactly the same. For info, this page has been updated in December 2024.
 
 </div>
 
@@ -98,23 +98,6 @@ cd gh-copilot-demo
 code .
 ```
 
-## Start playing with GitHub Copilot
-
-Once you start typing a prompt and copilot generate proposals, you can use the following shortcuts to interact with Copilot:
-    <ul>
-        <li>`tab` to accept the current suggestion entirely (`most common`)</li>
-        <li>`ctrl + right arrow` to accept word by word the suggestion (`for partial use`)</li>
-        <li>`alt + ^` to move to next suggestion</li>
-        <li>`shift + tab` to go back to the previous suggestion</li>
-        <li>`ctrl+enter` to display the copilot pane</li>
-    </ul>
-
-<div class="tip" data-title="tip">
-
-> If you can't remember it, just hover your pointer on top of a suggestion to make them appear.
-
-</div>
-
 ## Natural Language Translations
 
 **Automate text completion**
@@ -160,6 +143,19 @@ Copilot can help you also to write `RegExp patterns`. Try these:
 ```
 
 <br>
+
+## GitHub Copilot Shortcuts in VS Code
+Once you start typing a prompt and copilot generate proposals, you can use shortcuts to interact with GitHub Copilot.
+
+Refer to 
+https://docs.github.com/en/copilot/managing-copilot/configure-personal-settings/configuring-github-copilot-in-your-environment
+
+<div class="tip" data-title="tip">
+
+> If you can't remember the shortcuts, hover your pointer on top of a suggestion to make the most commonly used shortcuts to appear.
+
+</div>
+
 
 **Discover new tool and library on the job with Copilot**
 
